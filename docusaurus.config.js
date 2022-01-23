@@ -10,6 +10,7 @@ const config = {
   tagline: "Build. Verify. Improve.",
   url: "https://docs.nezels.com",
   baseUrl: "/",
+  trailingSlash: true,
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
