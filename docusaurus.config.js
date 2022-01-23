@@ -9,7 +9,7 @@ const config = {
   title: "Nezels",
   tagline: "Build. Verify. Improve.",
   url: "https://docs.nezels.com",
-  baseUrl: "/",
+  baseUrl: "/docs",
   trailingSlash: true,
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
