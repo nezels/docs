@@ -11,7 +11,7 @@ const config = {
   url: "https://docs.nezels.com",
   baseUrl: "/",
   trailingSlash: true,
-  onBrokenLinks: "throw",
+  onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
   organizationName: "nezels", // Usually your GitHub org/user name.
